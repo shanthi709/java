@@ -1,0 +1,5 @@
+java principles
+object
+class
+inheritance
+polimorphism
