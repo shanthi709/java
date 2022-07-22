@@ -1,0 +1,4 @@
+java was developed by james gosling 
+in 1995
+the history of java starts with green team
+now it was devoloped by oracle
